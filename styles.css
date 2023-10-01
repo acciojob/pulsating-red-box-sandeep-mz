@@ -1,9 +1,8 @@
 /*  your css code here. If applicable */
-/* CSS for the pulsing box */
     .pulse-box {
       width: 100px;
       height: 100px;
-      background-color: red;
+      background-color: rgb(255, 0, 0);
       animation: pulse 1s ease-in-out infinite;
     }
 
